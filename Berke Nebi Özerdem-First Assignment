@@ -1,0 +1,38 @@
+# Database Management System And Spreadsheet
+
+There are two ways that can be used to manage, store, retrieve and process data.
+The first of these, the spreadsheet, is a computer software application that allows users to work in an interface environment similar to a calculation worksheet.
+A database, on the other hand, is designed to easily organize, store, and retrieve large amounts of data.
+Let's examine these two methods together.
+
+# Spreadsheet:
+* It has an easier and more understandable interface for beginners. It is easy to use. Therefore, it can be preferred.
+* It does not offer data protection mechanisms to protect data from poorly trained users.
+* It is very difficult to get data from advanced queries. This is a significant disadvantage according to the database.
+
+# Database Management System
+
+* A database contains a group of regular data for one or more users.
+* It's better at storing data in one place and avoiding redundancy.
+* Databases data are classified according to their content such as document-text, bibliographic and statistical.
+* In general, databases offer better possibilities for concurrency.
+
+# Opinions of an authorized person on the subject :
+
+ What kind of spatial and thematic data you store?
+- Raster data and vector data based on coordinates.
+
+Do you use a DBMS?
+- Yes,  Oracle, Oracle Crm ,MySQL ..
+
+Is it a relational database? If so how many tables do you have?
+- Yes, between 70-80
+
+Why do you think the use of DBMS is important? What is the main benefit to your operation/product/daily use?
+- First of all, it is very valuable in terms of timing. All my colleagues and I can be informed instantly from the updated information. However, it provides a great advantage in getting the information we want.Thus, we can make more accurate analyzes while doing our job.
+
+What do you think is the main source of trouble in using a DBMS?
+- We may experience problems with data security from time to time, although not very often.
+
+Assume you have a team of Geomatics Engineers. Consider that employee A has very good skills in databases and prgramming and employee B does not possess these skills. Considering that you have the financial freedom and that you paying X TL to employee B; how much would you pay to employee A?
+- I paid 40 percent more.
